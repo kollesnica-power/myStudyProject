@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1414075338 source:e:\курсовая работа\4k\м\k\main.cpp
+	<stdio.h>
+	<iostream>
+	<windows.h>
+	<conio.h>
+
+1417198140 source:j:\Курсовая работа\4k\М\k\main.cpp
+	<stdio.h>
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+

@@ -1,0 +1,10 @@
+D:\Gaisler\grmon-pro\win32>grmon.exe
+
+ GRMON LEON debug monitor v1.1.41 professional version
+
+ Copyright (C) 2004-2008 Aeroflex Gaisler - all rights reserved.
+ For latest updates, go to http://www.gaisler.com/
+ Comments or bug-reports to support@gaisler.com
+
+ License Error:  Hardware key not found
+
